@@ -1,5 +1,5 @@
-TclGravity
-==========
+Gravity
+=======
 
 This is a simple gravity simulator using Newtonian physics. At any one time there are up to 32 objects, and once you have placed the maximum, the oldest objects will be deleted to be replaced by newly placed ones. This avoids the simulation slowing down, and I think 32 objects should be plenty. Every object is effected by the graviational force from every other object.
 
